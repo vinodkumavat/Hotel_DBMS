@@ -1,0 +1,5 @@
+1) tkinter
+2) mysql connector
+3) pillow
+
+4) 
